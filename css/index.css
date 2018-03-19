@@ -1,0 +1,90 @@
+/*头部开始*/
+.logo img{
+	display: block;
+    max-height: 23px;
+}    
+.new1 li:hover{
+	background: #E7E7E7;
+}
+.new1 li .wai a{
+	width: 211px;
+}
+#dao{
+	background: #fff;
+}
+.luo_1{
+	background: #E6E6E6;
+}
+.swiper-slide{
+	width: 80%;
+	height: 500px;
+	margin: 0 auto;
+}
+.zuo_1{
+	width: 50%;
+    height: 50%;
+    margin-left: 15%;
+}
+.ff{
+			    position: absolute;
+			    left: 0;
+			    top: 0;
+			    width: 130%;
+			    height: 100%;
+			    -webkit-background-size: cover;
+			    background-size: cover;
+			    background-position: center;
+		}
+/*红色区域开始*/
+.red{
+	margin-top: -20px;
+	line-height: 49px;
+	height: 52px;
+	background: #A80000;
+}
+.yanse span{
+	color: #fff;
+}
+/*轮播*/
+#lunbo{
+
+}
+.lun img{
+	margin: 0 auto;
+}
+#lunbo .jian{
+	font-size: 100px;
+}
+.lun h1{
+	color: black;
+}
+.lun h4{
+	color: black;
+}
+.lun .btn-primary{
+	background-color: black;
+}
+/*<!--特别推荐开始-->*/
+#tebie{
+	margin-top: 60px;
+}
+#lunbo2 .jian2{
+	font-size: 100px;
+}
+#wenzi h5{
+	color: #666;
+}
+#wenzi a{
+	color: #666;
+	font-size: 12px;
+}
+#wenzi1 h6{
+	color: #666;
+}
+#wenzi1 a{
+	font-size: 12px;
+	color: #666;
+	float: right;
+	margin-left: 12px;
+	display: block;
+}
